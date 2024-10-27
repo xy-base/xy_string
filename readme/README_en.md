@@ -23,6 +23,7 @@ String tool.
 ## Install
 
 ```bash
+# bash
 pip install xy_string
 ```
 
