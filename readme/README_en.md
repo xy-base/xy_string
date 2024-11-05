@@ -18,7 +18,8 @@ String tool.
 ## Source Code Repositories
 
 - <a href="https://github.com/xy-base/xy_string.git" target="_blank">Github</a>  
-- <a href="https://gitee.com/xy-base/xy_string.git" target="_blank">Gitee</a>
+- <a href="https://gitee.com/xy-opensource/xy_string.git" target="_blank">Gitee</a>  
+- <a href="https://gitcode.com/xy-opensource/xy_string.git" target="_blank">GitCode</a>  
 
 ## Installation
 
